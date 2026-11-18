@@ -143,7 +143,7 @@ I successfully obtained both flags and completed the room.
 
 ---
 
-**Author:** JASH KANIA
+**Author:** JASH KANIA 
 **Platform:** TryHackMe  
 **Challenge:** Wonderland
 
